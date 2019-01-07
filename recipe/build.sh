@@ -8,4 +8,4 @@ make check
 make install
 
 # remove libtool files
-find $PREFIX -name '*.la' -delete
+# find $PREFIX -name '*.la' -delete
